@@ -2,8 +2,11 @@
 BTA practice
 
 Atvērt BTA portālu (www.bta.lv)
+
 Pārvietoties uz ceļojuma polišu iegādes formu
+
 Nomainīt ceļojumā mērķi uz Indija izmantojot “Izvēlies valstis”
+
 Pārbaudīt vai ceļojuma mērķis ir nomainīts
 Nomainīt aktivitāti uz “Sports”
 Pārbaudīt vai aktivitāte nomainīta
